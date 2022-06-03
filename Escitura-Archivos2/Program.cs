@@ -11,18 +11,10 @@ namespace Escitura_Archivos2
     {
         static void Main(string[] args)
         {
-            StreamWriter sw = new StreamWriter("Ejemplo.txt", true);
-
-            string[] lines = {
-                "\nesto es una nueva linea" +
-                "\nsgunda linea" +
-                "\ntecera linea"
-            };
-
-            foreach (string line in lines)
-            {
-                sw.WriteLine(line);
-            }
+            TextWriter sw = new StreamWriter("Ejemplo.txt", true);
+            Console.WriteLine("Ingresa tu nombre: ");
+            string texto = Console.ReadLine().ToString();
+            sw.WriteLine(texto);
 
             sw.Close();
             Console.WriteLine("escribiendo");
