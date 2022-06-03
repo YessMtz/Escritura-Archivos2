@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Escritura-Archivos2\Escitura-Archivos2\obj\Debug\Escitura-Archivos2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Escritura-Archivos2\Escitura-Archivos2\obj\Debug\Escitura-Archivos2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Escritura-Archivos2\Escitura-Archivos2\bin\Debug\Escitura-Archivos2.exe.config
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Escritura-Archivos2\Escitura-Archivos2\bin\Debug\Escitura-Archivos2.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Escritura-Archivos2\Escitura-Archivos2\bin\Debug\Escitura-Archivos2.pdb
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Escritura-Archivos2\Escitura-Archivos2\obj\Debug\Escitura-Archivos2.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Escritura-Archivos2\Escitura-Archivos2\obj\Debug\Escitura-Archivos2.pdb
